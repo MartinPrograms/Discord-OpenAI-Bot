@@ -1,6 +1,8 @@
 # Discord-OpenAI-Bot
 A bot made with python which uses OpenAI as a response generator and creates human like interaction
 
+Setup: Replace the keys, run the bot and talk to it.
+
 Spent a few hours creating this, lots of fun to talk to.
 You are free to use this for whatever but reference me if you release it to the public.
 
